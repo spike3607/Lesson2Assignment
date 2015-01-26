@@ -9,6 +9,6 @@ package lesson2assignment;
  *
  * @author Spike
  */
-public interface Object {
+public interface Appliance {
     
 }

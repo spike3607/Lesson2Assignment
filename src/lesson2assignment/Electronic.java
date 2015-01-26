@@ -9,6 +9,6 @@ package lesson2assignment;
  *
  * @author Spike
  */
-public class Electronic implements Object {
+public class Electronic implements Appliance {
     
 }
